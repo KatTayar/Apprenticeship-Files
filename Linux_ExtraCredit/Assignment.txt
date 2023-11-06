@@ -1,0 +1,19 @@
+Summary
+The goal is to create a script for a regular user to backup a specific directory.
+This optional additional assignment can grant you 10 points if completed entirely.
+
+
+Context
+A user needs a script to backup all the files stored in a personal data directory (/home/<username>/data). All the backup files must be stored in a personal backup directory (/home/<username>/backups).
+
+
+Requirements
+- The script must be written using the Bash shell script language.
+- The script must be named backup-personal-data.sh.
+- The backup files must be created as .tar.gz files.
+- The backup files created must be named data-backup-YYYY-MM-DD.tar.gz (where YYYY-MM-DD is the current date, using the year, month day format).
+- The MD5 checksum value of each backup file must be stored in a checksums.txt file stored in the same directory as the backups.
+- The script will need to include tests to run properly (existing target directory, existing file. etc).
+- Completion and deadline
+
+This assignment must be completed before Friday, November 10, 2023 at noon. The backup script must be sent by email to the class instructor (belangerx@uncw.edu).
