@@ -16,4 +16,4 @@ Requirements
 - The script will need to include tests to run properly (existing target directory, existing file. etc).
 - Completion and deadline
 
-Due Date: Friday, November 10, 2023 at noon. 
+Due Date: Friday, November 10, 2023 at Midnight. 
